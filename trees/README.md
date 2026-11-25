@@ -2,4 +2,4 @@
 
 ## Pomegranate
 
-[pomegranate]
+![pomegranate](Photos/IMG_8868.jpeg)
